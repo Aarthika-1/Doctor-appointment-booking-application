@@ -1,2 +1,1 @@
-# Doctor-appointment-booking-application
-* Developed a full-stack doctor appointment booking application that enables users to search doctors based on **specialization**, view doctor availability, and book appointments with automated email confirmations. * Implemented **JWT-based authentication and role-based access control**, enabling admins to manage doctors, their availability.
+Developed a full-stack doctor appointment booking application that enables users to search doctors based on specialization, view doctor availability, and book appointments with automated email confirmations.Implemented JWT-based authentication and role-based access control, enabling admins to manage doctors, their availability.
